@@ -31,38 +31,6 @@ Free reading
 
 
 
-
-# Download [![](https://img.shields.io/badge/-Download-F5F5F5.svg)](#Download-)
-
-#### Android
-
-* [Download](https://renaisn.com/#/download)
-
-  
-
-
-#### IOS
-
-* Not yet updated
-
-
-
-# Community [![](https://img.shields.io/badge/-Community-F5F5F5.svg)](#Community-)
-
-#### Telegram
-
-<a href="https://t.me/Renaisn_Offcial" target="_blank">t.me/Renaisn_Offcial</a> 
-
-#### Discord
-
-<a href="https://discord.gg/mBkg5SGTZa" target="_blank">discord.gg/mBkg5SGTZa</a> 
-
-#### Twitter
-
-<a href="https://twitter.com/RenaisnNCE" target="_blank">twitter.com/RenaisnNCE</a> 
-
-
-
 # Say something
 
 We redefine the spirit of Internet sharing and follow the original intention of spreading culture freely without borders, providing unlimited content support for global users through Web3.
