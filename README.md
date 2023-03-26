@@ -32,27 +32,7 @@ Renaisn将围绕Read&Earn 概念，用户可以在使用Renaisn的同时并赚�
 8.后续更新多种打金玩赚方式。<br>
 
 
-# Download-下载 [![](https://img.shields.io/badge/-Download-F5F5F5.svg)](#Download-下载-)
-#### Android-安卓 
-* [Download](https://renaisn.com/#/download)
 
-
-#### IOS-苹果
-* 暂未更新 
-
-
-
-# Community-交流社区 [![](https://img.shields.io/badge/-Community-F5F5F5.svg)](#Community-交流社区-)
-
-#### Telegram
-<a href="https://t.me/Renaisn_Offcial" target="_blank">t.me/Renaisn_Offcial</a> 
-
-#### Discord
-<a href="https://discord.gg/mBkg5SGTZa" target="_blank">discord.gg/mBkg5SGTZa</a> 
-
-#### Twitter
-
-<a href="https://twitter.com/RenaisnNCE" target="_blank">twitter.com/RenaisnNCE</a> 
 
 
 
